@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_ETL_Northwind", "SSIS_ETL_Northwind.dtproj", "{16D90E2B-3987-452B-816C-C7364F91672D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D90E2B-3987-452B-816C-C7364F91672D}.Development|Default.ActiveCfg = Development
+		{16D90E2B-3987-452B-816C-C7364F91672D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F87E68-935E-4CAC-B2F6-68969A3247E9}
+	EndGlobalSection
+EndGlobal
